@@ -36,9 +36,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajariadi&show_icons=true&theme=default" alt="Fajar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firsaavln&show_icons=true&theme=default" alt="Firsaavln's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajariadi&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firsaavln&layout=compact" alt="Top Languages" />
 </p>
 
 ---
